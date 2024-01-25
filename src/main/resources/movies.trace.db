@@ -1,0 +1,57 @@
+2023-12-07 03:20:35 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MOVIELIST" not found (this database is empty); SQL statement:
+select * from MOVIELIST [42104-214]
+2023-12-07 03:21:45 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MOVIELIST" not found (this database is empty); SQL statement:
+select * from MOVIELIST [42104-214]
+2024-01-23 01:55:40 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MOVIELIST" not found (this database is empty); SQL statement:
+select * from MOVIELIST [42104-214]
+2024-01-23 12:27:43 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MOVIELIST" not found (this database is empty); SQL statement:
+select * from MOVIELIST [42104-214]
+2024-01-23 12:28:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MOVIELIST" not found (this database is empty); SQL statement:
+select * from MOVIELIST [42104-214]
+2024-01-23 12:35:49 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MOVIELIST" not found (this database is empty); SQL statement:
+select * from MOVIELIST [42104-214]
+2024-01-23 12:38:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MOVIELIST" not found (this database is empty); SQL statement:
+select * from MOVIELIST [42104-214]
+2024-01-23 12:46:05 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MOVIELIST" not found (this database is empty); SQL statement:
+select * from MOVIELIST [42104-214]
+2024-01-23 12:46:21 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MOVIELIST" not found (this database is empty); SQL statement:
+select * from MOVIELIST [42104-214]
+2024-01-23 13:27:36 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "INSERT INTO MOVIELIST (MOVIENAME, LEADACTOR) values ('Avengers: Endgame', 'Robert Downey Jr.')\000d\000a[*]INSERT INTO MOVIELIST (MOVIENAME, LEADACTOR) values ('Avatar', 'Sam Worthington')\000d\000aINSERT INTO MOVIELIST (MOVIENAME, LEADACTOR) values ('Titanic', 'Leonardo DiCaprio')\000d\000aINSERT INTO MOVIELIST (MOVIENAME, LEADACTOR) values ('Star Wars: The Force Awakens', 'Daisy Ridley')\000d\000aINSERT INTO MOVIELIST (MOVIENAME, LEADACTOR) values ('Jurassic World', 'Chris Pratt')"; SQL statement:
+INSERT INTO MOVIELIST (MOVIENAME, LEADACTOR) values ('Avengers: Endgame', 'Robert Downey Jr.')
+INSERT INTO MOVIELIST (MOVIENAME, LEADACTOR) values ('Avatar', 'Sam Worthington')
+INSERT INTO MOVIELIST (MOVIENAME, LEADACTOR) values ('Titanic', 'Leonardo DiCaprio')
+INSERT INTO MOVIELIST (MOVIENAME, LEADACTOR) values ('Star Wars: The Force Awakens', 'Daisy Ridley')
+INSERT INTO MOVIELIST (MOVIENAME, LEADACTOR) values ('Jurassic World', 'Chris Pratt') [42000-214]
+2024-01-23 13:43:24 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "insert into MOVIELIST (MOVIENAME, LEADACTOR) values ('Avengers: Endgame', 'Robert Downey Jr.')\000d\000a[*]insert into MOVIELIST (MOVIENAME, LEADACTOR) values ('Avatar', 'Sam Worthington')\000d\000ainsert into MOVIELIST (MOVIENAME, LEADACTOR) values ('Titanic', 'Leonardo DiCaprio')\000d\000ainsert into MOVIELIST (MOVIENAME, LEADACTOR) values ('Star Wars: The Force Awakens', 'Daisy Ridley')\000d\000ainsert into MOVIELIST (MOVIENAME, LEADACTOR) values ('Jurassic World', 'Chris Pratt')"; SQL statement:
+insert into MOVIELIST (MOVIENAME, LEADACTOR) values ('Avengers: Endgame', 'Robert Downey Jr.')
+insert into MOVIELIST (MOVIENAME, LEADACTOR) values ('Avatar', 'Sam Worthington')
+insert into MOVIELIST (MOVIENAME, LEADACTOR) values ('Titanic', 'Leonardo DiCaprio')
+insert into MOVIELIST (MOVIENAME, LEADACTOR) values ('Star Wars: The Force Awakens', 'Daisy Ridley')
+insert into MOVIELIST (MOVIENAME, LEADACTOR) values ('Jurassic World', 'Chris Pratt') [42000-214]
+2024-01-23 13:45:48 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MOVIELIST" not found (this database is empty); SQL statement:
+select * from MOVIELIST [42104-214]
+2024-01-23 13:49:41 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "INSERT INTO MOVIELIST (MOVIENAME, LEADACTOR) values ('Avengers: Endgame', 'Robert Downey Jr.')\000d\000a[*]INSERT INTO MOVIELIST (MOVIENAME, LEADACTOR) values ('Avatar', 'Sam Worthington')\000d\000aINSERT INTO MOVIELIST (MOVIENAME, LEADACTOR) values ('Titanic', 'Leonardo DiCaprio')\000d\000aINSERT INTO MOVIELIST (MOVIENAME, LEADACTOR) values ('Star Wars: The Force Awakens', 'Daisy Ridley')\000d\000aINSERT INTO MOVIELIST (MOVIENAME, LEADACTOR) values ('Jurassic World', 'Chris Pratt')"; SQL statement:
+INSERT INTO MOVIELIST (MOVIENAME, LEADACTOR) values ('Avengers: Endgame', 'Robert Downey Jr.')
+INSERT INTO MOVIELIST (MOVIENAME, LEADACTOR) values ('Avatar', 'Sam Worthington')
+INSERT INTO MOVIELIST (MOVIENAME, LEADACTOR) values ('Titanic', 'Leonardo DiCaprio')
+INSERT INTO MOVIELIST (MOVIENAME, LEADACTOR) values ('Star Wars: The Force Awakens', 'Daisy Ridley')
+INSERT INTO MOVIELIST (MOVIENAME, LEADACTOR) values ('Jurassic World', 'Chris Pratt') [42000-214]
+2024-01-23 14:31:01 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MOVIELIST" not found (this database is empty); SQL statement:
+select * from MOVIELIST [42104-214]
+2024-01-23 14:34:44 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MOVIELIST" not found (this database is empty); SQL statement:
+select * from MOVIELIST [42104-214]
